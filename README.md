@@ -1,6 +1,8 @@
 # Personal-Macros
 ## Bunch of Macros of my own.  All built on JS Macros
 
+# As for now its all mixed, some do work nicely, some do not at all, others are only my libraries to hold some lines etc. its hell of a mess.
+
 Im gonna drop macros in whole packs every so often
 
 Them we'' make branch repo with all macros one by one for easy search
