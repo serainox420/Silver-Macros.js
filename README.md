@@ -14,3 +14,6 @@ Good idea would be to group them by function, like
 
   EVENTS
 - group by events
+
+
+ALSO separate branch just fo sound effects to play in macros (Need to get proper YT to .wav converter) (Prefferably saving shit into cloud, or here}
