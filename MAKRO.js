@@ -1,0 +1,6 @@
+Chat.say("Ah Shit! Here we go again!")
+Chat.say("@mine 32 oak_log")
+Time.sleep(30000) //delay in miliseconds (10k is 10sec)
+Chat.say("@explore")
+Time.sleep(20000)
+Chat.say("@stop")
